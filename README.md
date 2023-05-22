@@ -1,6 +1,3 @@
-# infoVerse
-Jaehyung Kim et al's project on infoVerse
-
 # infoVerse: A Universal Framework for Dataset Characterization with Multidimensional Meta-information
 This repository provides datasets, demo page and code of the following paper:
 
@@ -16,7 +13,7 @@ pip install -r requirements.txt
 The project was tested using Python 3.7.
 
 
-## HuggingFace Integration
+## Code and HuggingFace Integration
 Coming soon.
 
 ## Datasets
